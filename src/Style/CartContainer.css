@@ -1,0 +1,15 @@
+.cart {
+    width: 45%;
+    box-sizing: border-box;
+    margin: 5px;
+  }
+  
+  .cart-left {
+    float: left;
+  }
+  
+  .cart-right {
+    float: right;
+  }
+
+  
